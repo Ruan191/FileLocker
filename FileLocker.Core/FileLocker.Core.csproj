@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="Services\Windows\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
